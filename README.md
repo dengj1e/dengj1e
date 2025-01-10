@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dengj1e
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning cs
+
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me dengj#0085 @discord
 
